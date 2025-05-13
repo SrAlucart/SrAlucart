@@ -2,7 +2,7 @@
 
 <h1 align="center">Bienvenido o Bienvenida <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> a mi perfil de GitHub</h1>
 <div align="center">
-    <h4 style="color:#6a737d;">Desarrollador FullStack | Apasionado por la Innovación Tecnológica</h4>
+    <h4 style="color:#6a737d;">Desarrollador FullStack | Apasionado por la Innovación Tecnológica | Fotografo en crecimiento</h4>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=%C2%A1Hola!+Soy+Emanuel+Buritica;Desarrollador+FullStack;Innovador+Digital" alt="Typing SVG" />
 </div>
 
