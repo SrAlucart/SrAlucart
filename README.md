@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/sralucart">
-    <img src="https://github-readme-stats.vercel.app/api/card?username=sralucart&theme=dark&hide_border=true&title_color=38BDF8&text_color=e0e0e0&icon_color=38BDF8&bg_color=1a1b26&show_icons=true" alt="Emanuel Buritica's GitHub Card" />
-  </a>
+  <img src="http://googleusercontent.com/image_generation_content/0" alt="Tarjeta Personalizada de Emanuel Buritica - Desarrollador" />
 </p>
 
 <h1 align="center">Bienvenido o Bienvenida <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> a mi perfil de GitHub</h1>
