@@ -1,6 +1,6 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenido o Bienvenida a mi perfil de GitHub
+# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/>      Bienvenido o Bienvenida a mi perfil de GitHub
 
-![Banner de SrAlukart](banner-github-SrAlukart-Tarjeta_Github.jpg)
+![Banner de SrAlukart](Tarjeta_Github.jpg)
 
 <div align="center">
     <h3 style="color:#6a737d;">Desarrollador | Automatización de Procesos | Creador de Soluciones Digitales</h3>
