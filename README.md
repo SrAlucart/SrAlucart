@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Tarjeta Personalizada de Emanuel Buritica - Desarrollador" />
-</p>
+# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenido o Bienvenida a mi perfil de GitHub
 
-<h1 align="center">Bienvenido o Bienvenida <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> a mi perfil de GitHub</h1>
+![Banner de SrAlukart](banner-github-SrAlukart-Tarjeta_Github.jpg)
+
 <div align="center">
     <h3 style="color:#6a737d;">Desarrollador | Automatización de Procesos | Creador de Soluciones Digitales</h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=%C2%A1Hola!+Soy+Emanuel+Buritica;FullStack+Developer+%7C+PHP+%7C+Python;Transformando+Ideas+en+C%C3%B3digo+Funcional" alt="Typing SVG" />
