@@ -25,8 +25,6 @@
 
 ## 🛠️ Tecnologías y Stack Principal
 
-Para dar la confianza de contratar, es vital mostrar el dominio de las herramientas.
-
 ### 💻 Lenguajes de Programación y Bases de Datos
 <div align="center">
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" /></code>
