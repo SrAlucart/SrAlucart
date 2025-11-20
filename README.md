@@ -128,9 +128,6 @@ Si necesita un desarrollador con enfoque en la eficiencia y la entrega de valor,
     <a href="mailto:Emanuelburitica2014@gmail.com">
         <img src="https://img.shields.io/badge/Correo%20Profesional-Emanuelburitica2014@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/EMANUEL_TU_PERFIL_DE_LINKEDIN">
-        <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
     <a href="https://www.instagram.com/sralukart">
         <img src="https://img.shields.io/badge/Instagram-sralukart-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
