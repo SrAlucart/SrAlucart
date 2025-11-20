@@ -25,7 +25,7 @@
 
 ## 🛠️ Tecnologías y Stack Principal
 
-Para dar la confianza de contratar, es vital mostrar el dominio de las herramientas. Agregamos *badges* para una mejor visualización.
+Para dar la confianza de contratar, es vital mostrar el dominio de las herramientas.
 
 ### 💻 Lenguajes de Programación y Bases de Datos
 <div align="center">
@@ -55,8 +55,6 @@ Para dar la confianza de contratar, es vital mostrar el dominio de las herramien
 
 ## 💼 Servicios Enfocados en Resultados
 
-Esta sección ahora destaca el **beneficio** que obtendría el cliente o la empresa.
-
 * **Desarrollo de Sistemas a Medida (PHP/MySQL):** Creación de soluciones empresariales robustas (CRMs, herramientas internas, etc.) con foco en la **seguridad de los datos** y la **escalabilidad**.
 * **Automatización y Scripting (Python):** Desarrollo de scripts y utilidades para **reducir tareas manuales repetitivas**, optimizando el flujo de trabajo y liberando tiempo para actividades de mayor valor.
 * **Paneles de Administración Optimizados:** Diseño e implementación de *backends* intuitivos que garantizan una **gestión de contenido eficiente y sin errores** por parte del usuario final.
@@ -66,8 +64,6 @@ Esta sección ahora destaca el **beneficio** que obtendría el cliente o la empr
 ---
 
 ## 🚀 **Proyectos Destacados**
-
-Enfocamos las descripciones de los proyectos en la **funcionalidad crítica** y el **impacto** que tienen.
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/c6/f8/81/c6f881c0a0593a3c0e67cf258094396f.gif" />
 
@@ -101,8 +97,6 @@ Enfocamos las descripciones de los proyectos en la **funcionalidad crítica** y 
 ---
 
 ## 📈 Crecimiento y Habilidades Futuras
-
-Aquí se muestra la mentalidad de aprendizaje continuo, crucial para las empresas.
 
 Actualmente estoy enfocado en la adopción de frameworks que permitan construir aplicaciones de próxima generación, robustas y modernas:
 
