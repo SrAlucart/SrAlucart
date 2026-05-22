@@ -103,14 +103,6 @@ Actualmente estoy enfocado en la adopción de frameworks que permitan construir 
 * 🔗 **Diseño de APIs RESTful:** Para garantizar una comunicación eficiente y estandarizada entre servicios y sistemas.
 * ✅ **Metodologías Ágiles (Scrum):** Adoptando las mejores prácticas para la gestión eficiente y colaborativa de proyectos de software.
 
----
-
-### 📊 GitHub Stats (Tu Actividad Dice Mucho)
-
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sralucart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sralucart&layout=compact&theme=tokyonight&hide_title=true"/>
-</p>
 
 ---
 
