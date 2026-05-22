@@ -4,7 +4,7 @@
 
 <div align="center">
     <h3 style="color:#6a737d;">Desarrollador | Automatización de Procesos | Creador de Soluciones Digitales</h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=%C2%A1Hola!+Soy+Emanuel+Buritica;Developer+%7C+PHP+%7C+Python;Transformando+Ideas+en+C%C3%B3digo+Funcional" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=%C2%A1Hola!+Soy+Emanuel+Buritica;Developer+%7C+PHP+%7C+Python;TTransformando+Ideas+en+C%C3%B3digo+Funcionall" alt="Typing SVG" />
 </div>
 
 ---
