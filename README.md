@@ -1,99 +1,73 @@
-<div align="center">
-  <img src="Tarjeta_Github.jpg" alt="Banner de Emanuel Buritica" width="100%">
-</div>
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; color: #c9d1d9; border-radius: 10px;">
+  <tr>
+    <!-- COLUMNA IZQUIERDA: Perfil y Habilidades -->
+    <td width="30%" align="center" valign="top" style="padding: 20px; border-right: 1px solid #30363d;">
+      <img src="WhatsApp_Image_2026-11-10_at_8.23.41_AM-removebg-preview.png" width="180" style="border-radius: 50%; border: 3px solid #58a6ff; background-color: #f0f6fc;"><br><br>
+      
+      <h2 style="margin: 0; color: #ffffff;">SrAlucart</h2>
+      <p style="color: #8b949e; margin-top: 5px;">Full Stack Developer</p>
+      
+      <hr style="border: 1px solid #30363d; margin: 20px 0;">
+      
+      <div align="left" style="font-size: 14px;">
+        <b style="color: #58a6ff;">🧰 Frameworks</b><br>
+        ⚛️ React, 🔺 Laravel<br><br>
+        
+        <b style="color: #58a6ff;">💻 Lenguajes</b><br>
+        🟨 JavaScript, 🐘 PHP, 🟧 HTML/CSS<br><br>
+        
+        <b style="color: #58a6ff;">🛠️ Herramientas</b><br>
+        📗 Excel, 📊 Google Sheets, 🔵 Apps Script
+      </div>
+    </td>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9C88FF&center=true&vCenter=true&width=600&lines=Desarrollador+%7C+PHP+%7C+Python+%7C+JavaScript;Transformando+ideas+en+c%C3%B3digo+funcional;Optimizando+procesos+digitales" alt="Typing SVG" />
-</div>
+    <!-- COLUMNA DERECHA: Sobre mí, Tecnologías y Proyectos -->
+    <td width="70%" valign="top" style="padding: 20px 30px;">
+      
+      <h3 style="color: #ffffff; border-bottom: 1px solid #30363d; padding-bottom: 10px;">SOBRE MÍ</h3>
+      <p style="font-size: 14px; line-height: 1.6;">
+        Mi experiencia se centra en el desarrollo web y la automatización, creando soluciones full stack eficientes y a medida. Me especializo en la construcción de sistemas robustos, optimización de procesos operativos y el diseño de plataformas estructuradas. Integro tecnologías de desarrollo web con herramientas ofimáticas para generar resultados que impactan directamente en la productividad y el control de metas.
+      </p>
 
----
+      <h3 style="color: #ffffff; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 30px;">HERRAMIENTAS Y TECNOLOGÍAS</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+        <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+        <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white">
+      </p>
 
-## 🚀 Mi Propuesta de Valor
+      <h3 style="color: #ffffff; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 30px;">PROYECTOS</h3>
+      <table width="100%" style="border: none;">
+        <tr>
+          <td width="33%" valign="top" style="padding: 15px; border: 1px solid #30363d; border-radius: 6px;">
+            <b style="color: #58a6ff;">🗨️ mensajeria-app</b><br>
+            <i style="color: #8b949e; font-size: 12px;">Laravel y React</i><br>
+            <p style="font-size: 13px; margin-top: 8px;">Sistema de comunicación interna y chat de envíos en tiempo real.</p>
+          </td>
+          <td width="33%" valign="top" style="padding: 15px; border: 1px solid #30363d; border-radius: 6px;">
+            <b style="color: #58a6ff;">🎯 mid-plans</b><br>
+            <i style="color: #8b949e; font-size: 12px;">Laravel y MySQL</i><br>
+            <p style="font-size: 13px; margin-top: 8px;">Plataforma integral para la planificación, gestión y seguimiento de metas.</p>
+          </td>
+          <td width="33%" valign="top" style="padding: 15px; border: 1px solid #30363d; border-radius: 6px;">
+            <b style="color: #58a6ff;">📋 auditorias-sistema</b><br>
+            <i style="color: #8b949e; font-size: 12px;">PHP, JS, Apps Script</i><br>
+            <p style="font-size: 13px; margin-top: 8px;">Herramienta para el control, inspección y automatización de auditorías de procesos.</p>
+          </td>
+        </tr>
+      </table>
 
-Soy un **Desarrollador Backend y Creador de Soluciones Digitales** enfocado en transformar requerimientos complejos en herramientas eficientes, seguras y escalables. No solo escribo código; **construyo infraestructura digital que optimiza la operación de los negocios** y genera valor real.
+      <br>
+      <div align="center" style="margin-top: 20px;">
+        <a href="https://github.com/SrAlucart"><img src="https://img.shields.io/badge/GitHub-SrAlucart-181717?style=for-the-badge&logo=github"></a>
+        <a href="https://linkedin.com/in/srAlucart"><img src="https://img.shields.io/badge/LinkedIn-SrAlucart-0A66C2?style=for-the-badge&logo=linkedin"></a>
+        <a href="mailto:ficticcart@gmail.com"><img src="https://img.shields.io/badge/Mail-ficticcart@gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
+      </div>
 
-* 💡 **Mentalidad de Producto:** Soluciones prácticas y de alto impacto orientadas a resolver problemas específicos del cliente.
-* ⚙️ **Eficiencia Backend:** Creación de arquitecturas robustas utilizando **Python, PHP y JavaScript**.
-* 🔄 **Gestión Integral:** Dominio del ciclo completo, desde el modelado de bases de datos relacionales (*MySQL*) hasta la configuración y despliegue (*Apache*).
-* 🚀 **Mejora Continua:** Autodidacta apasionado, actualmente expandiendo mi ecosistema hacia **React.js y Laravel**.
-
----
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>💻 Lenguajes y BD</h3>
-        <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-      </td>
-      <td align="center" width="33%">
-        <h3>🌐 Frontend y Web</h3>
-        <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache" title="Apache" />
-      </td>
-      <td align="center" width="33%">
-        <h3>⚙️ Herramientas</h3>
-        <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" title="VSCode" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 💼 Servicios y Soluciones
-
-* **Sistemas a Medida (PHP/MySQL):** Desarrollo de plataformas empresariales (CRMs, herramientas internas) priorizando la integridad y seguridad de la información.
-* **Automatización de Procesos (Python):** Creación de scripts que reducen el trabajo manual repetitivo, ahorrando tiempo y minimizando el margen de error humano.
-* **Paneles de Administración:** Interfaces de backend intuitivas para que el cliente final gestione su negocio sin fricciones técnicas.
-* **Desarrollo Web Orientado a Conversión:** Maquetación de *Landing Pages* con foco en rendimiento y usabilidad para maximizar la captación de prospectos y ventas.
-
----
-
-## 🏆 Proyectos Destacados
-
-| Proyecto | Funcionalidad y Valor Aportado | Stack Principal |
-| :--- | :--- | :--- |
-| **CRUD de Clientes** | Sistema centralizado para la gestión segura de datos, asegurando trazabilidad y mantenimiento ágil de registros. | `PHP` `MySQL` `Bootstrap` |
-| **Gestor de Parqueaderos** | Plataforma para el control automatizado de espacios y accesos. Aumenta la eficiencia operativa del negocio. | `PHP` `MySQL` `JS` |
-| **Landing Page de Servicios** | Sitio web de alto impacto, estructurado estratégicamente para mejorar la tasa de conversión y generación de leads. | `HTML` `CSS` `JS` |
-
----
-
-## 📈 Evolución y Próximos Pasos
-
-Mi objetivo es entregar software de clase mundial. Para ello, me encuentro perfeccionando mis habilidades en:
-
-* ⚛️ **React.js:** Para el desarrollo de *Single Page Applications* (SPA) y experiencias de usuario altamente dinámicas.
-* ⚙️ **Laravel:** Implementando arquitectura limpia y escalable para aplicaciones backend complejas en PHP.
-* 🔗 **APIs RESTful:** Diseño e integración de servicios eficientes e intercomunicados.
-* ✅ **Metodologías Ágiles (Scrum):** Para un flujo de trabajo predecible, iterativo y colaborativo.
-
----
-
-## 📬 ¿Listo para llevar tu proyecto al siguiente nivel?
-
-Si buscas un desarrollador comprometido con la excelencia técnica y el rendimiento de tu negocio, hablemos.
-
-<div align="center">
-  <a href="mailto:Emanuelburitica2014@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Emanuelburitica2014@gmail.com-3A0CA3?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Profesional" />
-  </a>
-  <a href="https://www.instagram.com/sralukart">
-    <img src="https://img.shields.io/badge/Instagram-@sralukart-3A0CA3?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=emanuelburitica&label=Visitas+al+perfil&color=3A0CA3&style=flat-square" alt="Visitas al perfil" />
-</div>
+    </td>
+  </tr>
+</table>
