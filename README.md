@@ -1,7 +1,6 @@
 <div align="center">
   <img src="Tarjeta_Github.jpg" alt="Banner de Emanuel Buritica" width="100%">
 </div>
-///
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9C88FF&center=true&vCenter=true&width=700&lines=Desarrollador+%7C+PHP+%7C+Python+%7C+JavaScript;React+%7C+Laravel+%7C+Google+Apps+Script;Transformando+ideas+en+c%C3%B3digo+funcional;Optimizando+procesos+digitales" alt="Typing SVG" />
 </div>
